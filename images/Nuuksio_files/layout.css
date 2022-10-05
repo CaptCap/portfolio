@@ -1,0 +1,23 @@
+
+.title{
+    font-size: 65px ;
+    color: #fff;
+    margin-top: 10rem;
+    font-weight: 600;
+}
+.speech{
+    font-size: 20px;
+    color: rgb(55, 52, 52);
+    margin-bottom: 16rem;
+    margin-left: 24rem;
+    margin-right: 16rem;
+}
+
+html,body{
+  display: grid;
+  height: 100%;
+  place-items: center;
+  background: #e1ae7a;
+  font-family: sans-serif;
+  line-height: 1.5;
+}

@@ -1,0 +1,87 @@
+
+
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+   
+
+    }
+.container{
+    background-image: url(../images/grunge.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    max-width: 100%;
+    width: 964px;
+}
+.special
+{
+background-image: url(../images/special-bg.png);
+background-position: 80% 100%;
+background-repeat: repeat-x;
+background-color: rgb(9, 94, 77);
+color: antiquewhite;
+padding: 8px;
+
+}
+
+
+header  {
+    display: flex;
+    
+    /* text-decoration: none; */
+    align-items: center;
+    
+}
+.menu{
+    text-decoration: none;
+    margin-left: 6rem;
+    
+}
+.prtzl 
+{
+
+    max-width: 70% ;
+}
+
+
+
+article
+
+{
+
+    margin: 1rem 0;
+
+}
+
+article h2
+
+{
+
+    width: 20;
+
+    font-size: 2rem;
+
+    color: #6F5D4E;
+
+
+
+}
+
+article ul
+
+{
+
+    column-count: 2;
+
+    margin-right: 1rem;
+
+    padding: 1rem 0;
+
+}
+
+
+footer {
+    align-items: center;
+    text-align: center;
+}
